@@ -1,0 +1,2 @@
+https://medium.com/ether-labs/tradebot-stock-trading-using-reinforcement-learning-part1-8b67c9603f33
+https://github.com/llSourcell/Reinforcement_Learning_for_Stock_Prediction?fbclid=IwAR0KA-B5YMjiUPcRLZxZUvHPE0xS6n7gPU8PPpD2r5EssaH9lETABB3Ee9o
