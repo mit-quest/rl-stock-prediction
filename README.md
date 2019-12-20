@@ -1,5 +1,7 @@
 # rl-stock-prediction
 
+#### Creators: Dolapo Adedokun and Daniel Adebi
+
 ### Goal
 The Goal of this notebook is to compare two different ML models in stock prediction, and profit generation. The approach the problem from a Supervised Learning approach, as well as from a Reinforcement Learning approach. 
 
